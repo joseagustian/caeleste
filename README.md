@@ -1,6 +1,6 @@
 # caeleste
 
-A new Flutter project.
+This is my very first Flutter app. The app is very simple and not yet use databases or API.
 
 ## Getting Started
 
